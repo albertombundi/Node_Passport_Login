@@ -1,5 +1,5 @@
 {
-  "name": "node_passport_login",
+  "name": "node_passport_login", 
   "version": "1.0.0",
   "description": "Nodejs with Passport authentication",
   "main": "app.js",
